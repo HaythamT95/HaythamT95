@@ -42,6 +42,8 @@
 
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaythamT95&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaythamT95&theme=highcontrast)](https://git.io/streak-stats)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaythamT95&hide_progress=false&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
