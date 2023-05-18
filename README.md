@@ -13,7 +13,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on TaskTick
+- 🔭 I’m currently working on TaskTick https://superlative-cuchufli-7ae9fa.netlify.app/, you can check it out here
 - 🌱 I’m currently learning Fullstack technologies (React, React-Native, NodeJS, ExpressJS, MongoDB)
 - 💬 Ask me about anything  
 
