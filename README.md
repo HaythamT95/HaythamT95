@@ -13,8 +13,8 @@
 ---
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on TaskTick https://www.helpspace-ltd.com/, you can check it out here
-- 🌱 I’m currently learning Fullstack technologies (React, React-Native, NodeJS, ExpressJS, MongoDB)
+- 🔭 I’m currently working on Ten-Yad https://www.helpspace-ltd.com/, you can check it out here
+- 🌱 I’m Developing with these Fullstack technologies (React, React-Native, NodeJS, ExpressJS, MongoDB, Firebase)
 - 💬 Ask me about anything  
 
 ---
