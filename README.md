@@ -12,14 +12,14 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me 
 - 🔭 I’m currently working on Ten-Yad https://www.helpspace-ltd.com/, you can check it out here
 - 🌱 I’m Developing with these Fullstack technologies (React, React-Native, NodeJS, ExpressJS, MongoDB, Firebase)
 - 💬 Ask me about anything  
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB"  width="40" height="40"/>&nbsp;
